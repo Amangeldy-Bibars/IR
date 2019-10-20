@@ -1,7 +1,5 @@
-//  main.cpp
 //  RSA
-//
-//  Created by Sergiy on 06.06.17.
+//  Created by Bibars on 20.10.19.
 
 #include <iostream>
 #include <math.h>
